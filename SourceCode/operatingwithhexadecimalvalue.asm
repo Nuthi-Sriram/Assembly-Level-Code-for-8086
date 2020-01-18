@@ -1,0 +1,8 @@
+.MODEL small
+.STACK
+.DATA
+.CODE 
+MOV AX,10H
+MOV BX,20H    
+ADD AX,BX
+END
