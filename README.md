@@ -1,10 +1,10 @@
-# Assembly-Level-Code-for-8086
+# Intel-8086-Assembly-language-program
 
 List of programs being done in the Embedded Systems Lab.
 
 # :book: How to use the repository?
 
-- [Master branch](https://github.com/Nuthi-Sriram/Assembly-Level-Code-for-8086/tree/master/SourceCode) contains codes that have been tested and are guaranteed to run. For any issues please report to us in the format mentioned below.
+- [Master branch](https://github.com/Nuthi-Sriram/Intel-8086-Assembly-language-program/tree/master/SourceCode) contains codes that have been tested and are guaranteed to run. For any issues please report to us in the format mentioned below.
 
 # :octocat: How to contribute?
 
@@ -19,7 +19,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 # :octocat: Team
 
 - **Nuthi-Sriram** - _Coder and tester_ - [Nuthi-Sriram](https://github.com/Nuthi-Sriram)
-  See the full list of [contributors](https://github.com/Nuthi-Sriram/Assembly-Level-Code-for-8086/graphs/contributors) who participated in this project and statistics.
+  See the full list of [contributors](https://github.com/Nuthi-Sriram/Intel-8086-Assembly-language-program/graphs/contributors) who participated in this project and statistics.
 
 # :heavy_exclamation_mark: Prerequisites aka requirements
 
@@ -27,11 +27,11 @@ Please read [Prerequisite](Prerequisite.md) file for details.
 
 # :scroll: Changelog
 
-Check the [changelog here](https://github.com/Nuthi-Sriram/Assembly-Level-Code-for-8086/commits/master).
+Check the [changelog here](https://github.com/Nuthi-Sriram/Intel-8086-Assembly-language-program/commits/master).
 
 # :scroll: I found some bugs or issues. Where do I report?
 
-Report [here](https://github.com/Nuthi-Sriram/Assembly-Level-Code-for-8086/issues) in detail answering these questions:
+Report [here](https://github.com/Nuthi-Sriram/Intel-8086-Assembly-language-program/issues) in detail answering these questions:
 
 - What steps did you take to make the bug appear?
 - How can the bug be fixed? (In case you know)
@@ -41,4 +41,4 @@ Report [here](https://github.com/Nuthi-Sriram/Assembly-Level-Code-for-8086/issue
 
 # :scroll: How do I contact the team?
 
-Check [here](https://github.com/Nuthi-Sriram/Assembly-Level-Code-for-8086/graphs/contributors) for the list of contributors. Contact one of them through their profiles.
+Check [here](https://github.com/Nuthi-Sriram/Intel-8086-Assembly-language-program/graphs/contributors) for the list of contributors. Contact one of them through their profiles.
